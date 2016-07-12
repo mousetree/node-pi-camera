@@ -11,4 +11,6 @@ it just runs the built in `raspistill` command.
 
 ## Usage
 
-  node index.js
+```
+node index.js
+````
