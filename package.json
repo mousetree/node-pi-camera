@@ -1,0 +1,11 @@
+{
+  "name": "node-pi-camera",
+  "version": "0.1.0",
+  "description": "Node Raspberry Pi Camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Mausenbaum",
+  "dependencies": {}
+}
